@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782698621427",
+    "project_id": "chatflutter-8a5b6",
+    "storage_bucket": "chatflutter-8a5b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782698621427:android:5c8894781c4cf79d1c4a86",
+        "android_client_info": {
+          "package_name": "br.com.herpich.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782698621427-ltc1v94f2o8l5569c78uvkghap2rqiqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefN2lDqkOBqHDcp59nKMxo6m72BK3mtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782698621427-ltc1v94f2o8l5569c78uvkghap2rqiqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
